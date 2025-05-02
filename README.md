@@ -8,7 +8,7 @@ I'm a passionate software developer based in Bengaluru, India, with a keen inter
 
 * **[RagBot-with-Gemini-API](https://github.com/Vinodhariharan/RagBot-with-Gemini-API)**: An AI-powered chatbot that combines Retrieval-Augmented Generation (RAG) with Google's Gemini API to provide intelligent responses.
 
-* **[Sociography](https://github.com/Vinodhariharan/Sociography)**: A social media analytics dashboard that visualizes user engagement metrics and trends, helping users understand their social media performance.
+* **[Sociography](https://github.com/Vinodhariharan/Sociography)**: Sociography is a social media platform designed specifically for photographers. It allows photographers to showcase their work, interact with other photographers, and connect with potential partners and sponsors
 
 ## 🌐 Connect with Me
 
