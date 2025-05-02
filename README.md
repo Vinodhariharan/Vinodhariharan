@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm R Vinod Hariharan
 
-<!--
-**Vinodhariharan/Vinodhariharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer based in Bengaluru, India, with a keen interest in building intuitive and efficient web applications.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **[Plant-Palette](https://github.com/Vinodhariharan/Plant-Palette)**: A frontend-only eCommerce web application for garden products, offering a user-friendly shopping experience with a static product list, cart functionality, and basic checkout flow.
+
+* **[RagBot-with-Gemini-API](https://github.com/Vinodhariharan/RagBot-with-Gemini-API)**: An AI-powered chatbot that combines Retrieval-Augmented Generation (RAG) with Google's Gemini API to provide intelligent responses.
+
+* **[Sociography](https://github.com/Vinodhariharan/Sociography)**: A social media analytics dashboard that visualizes user engagement metrics and trends, helping users understand their social media performance.
+
+## 🌐 Connect with Me
+
+* [Personal Website](https://vinodhariharan.vercel.app/)
+* [LinkedIn](https://www.linkedin.com/in/vinodhariharan-ravi)
+
