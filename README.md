@@ -2,7 +2,7 @@
 
 I'm a passionate software developer based in Bengaluru, India, with a keen interest in building intuitive and efficient web applications.
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=Vinodhariharan&color=green)
 
 ## Projects
 
