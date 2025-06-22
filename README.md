@@ -2,6 +2,8 @@
 
 I'm a passionate software developer based in Bengaluru, India, with a keen interest in building intuitive and efficient web applications.
 
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green)
+
 ## Projects
 
 * **[Plant-Palette](https://github.com/Vinodhariharan/Plant-Palette)**: A frontend-only eCommerce web application for garden products, offering a user-friendly shopping experience with a static product list, cart functionality, and basic checkout flow.
