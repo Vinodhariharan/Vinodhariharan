@@ -1,19 +1,50 @@
 # Hello, I'm R Vinod Hariharan
 
-I'm a passionate software developer based in Bengaluru, India, with a keen interest in building intuitive and efficient web applications.
+Software developer based in Bengaluru, India, focused on building intuitive and scalable web applications. My work includes AI-powered chatbots and eCommerce platforms.
 
-![Profile views](https://komarev.com/ghpvc/?username=Vinodhariharan&color=green)
+---
 
-## Projects
+## Featured Projects
 
-* **[Plant-Palette](https://github.com/Vinodhariharan/Plant-Palette)**: A frontend-only eCommerce web application for garden products, offering a user-friendly shopping experience with a static product list, cart functionality, and basic checkout flow.
+- **[Botanicart](https://github.com/Vinodhariharan/botanicart)**  
+  A full-stack online plant store built with React and Firebase. Supports browsing plants, managing a shopping cart, and checkout workflow.
 
-* **[RagBot-with-Gemini-API](https://github.com/Vinodhariharan/RagBot-with-Gemini-API)**: An AI-powered chatbot that combines Retrieval-Augmented Generation (RAG) with Google's Gemini API to provide intelligent responses.
+- **[Botanicart AI Agent](https://github.com/Vinodhariharan/botanicart-ai-agent)**  
+  An AI-powered virtual shopping assistant integrated into Botanicart. Uses conversational AI to help users find suitable plants and answer product questions.
 
-* **[Sociography](https://github.com/Vinodhariharan/Sociography)**: Sociography is a social media platform designed specifically for photographers. It allows photographers to showcase their work, interact with other photographers, and connect with potential partners and sponsors
+- **[RagBot with Gemini API](https://github.com/Vinodhariharan/RagBot-with-Gemini-API)**  
+  An AI chatbot combining Retrieval-Augmented Generation (RAG) with Google's Gemini API, delivering intelligent, context-aware responses.
 
-## 🌐 Connect with Me
+- **[Sociography](https://github.com/Vinodhariharan/Sociography)**  
+  A social media platform for photographers—users can upload portfolios, connect with peers, and discover collaboration opportunities.
 
-* [Personal Website](https://vinodhariharan.vercel.app/)
-* [LinkedIn](https://www.linkedin.com/in/vinodhariharan-ravi)
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinodhariharan&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinodhariharan&layout=compact&theme=default)
+
+---
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vinodhariharan&color=blue)
+
+---
+
+## Skills & Tech
+
+- **Frontend**: React, JavaScript
+- **Backend**: SpringBoot, MySQL
+- **AI / Chatbots**: Gemini API, RAG  
+- **Tools**: Git, VS Code, Postman
+
+---
+
+## Connect
+
+- [Personal Website](https://vinodhariharan.vercel.app/)  
+- [LinkedIn](https://www.linkedin.com/in/vinodhariharan-ravi)  
+- [GitHub](https://github.com/Vinodhariharan)
 
